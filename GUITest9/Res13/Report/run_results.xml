@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Object required: 'vbscript'</Name>
+    <ErrorText>Object required: 'vbscript'</ErrorText>
+    <Description>&lt;BR/&gt;Line (15): &amp;quot;vbscript.echo &amp;quot;emp id is already exists&amp;quot;&amp;quot;.</Description>
+    <StartTime>2023-03-06 16:12:37</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[vbscript.echo "emp id is already exists"]]></Scripts>
+          <LineNo><![CDATA[15]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>f28c39fb4f234acfaa79441d11e56a94</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-03-06 16:12:42</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>0003f90a0e1649a9a9d6c68b04ed4b4f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-03-06 16:12:29</StartTime>
+    <Duration>13</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>5e95e7e692e84d038ed45a09b5b4d5ff</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-03-06 16:12:29</StartTime>
+    <Duration>13</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>7edc301c479a43b8bd1f3a124b3af151</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest9</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.03</ToolVersion>
+    <Description />
+    <StartTime>2023-03-06 16:12:27</StartTime>
+    <Duration>15</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>fde1d3360db5404090a2873a2065b51e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (India)</Locale>
+      <User>Administrator</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>WINDOWS-UNR7VLH</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res13</ResultName>
+    <RunStartTime>2023-03-06 16:12:27</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.03</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>

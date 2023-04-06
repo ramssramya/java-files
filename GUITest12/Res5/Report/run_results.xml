@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "C:\Program Files (x86)\HPE\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe",1</Name>
+    <StartTime>2023-03-10 10:43:42</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>2c85f3d112274a9684187bceb888b7ec</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-03-10 10:43:41</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>fef4a0531fbb4a2783a48ced6220c322</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-03-10 10:43:41</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>47af8438205945019dc3990285979c58</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest12</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.03</ToolVersion>
+    <Description />
+    <StartTime>2023-03-10 10:43:37</StartTime>
+    <Duration>5</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>f97935d9c5c04098a22e955b21a9fde2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (India)</Locale>
+      <User>Administrator</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>WINDOWS-UNR7VLH</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res5</ResultName>
+    <RunStartTime>2023-03-10 10:43:37</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.03</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>

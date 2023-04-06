@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Wrong number of arguments or invalid property assignment: 'Add'</Name>
+    <ErrorText>Wrong number of arguments or invalid property assignment: 'Add'</ErrorText>
+    <Description>&lt;BR/&gt;Line (3): &amp;quot;d.Add &amp;quot;employee id&amp;quot;,&amp;quot;1001&amp;quot;,&amp;quot;1002&amp;quot;&amp;quot;.</Description>
+    <StartTime>2023-03-06 16:20:36</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[d.Add "employee id","1001","1002"]]></Scripts>
+          <LineNo><![CDATA[3]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>7738dc836dbd4ffb83fef0123d5661d1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-03-06 16:20:39</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>215fce331b314f31a197e418f61e639e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-03-06 16:20:36</StartTime>
+    <Duration>3</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>45edea601386467384296b2909d158ff</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-03-06 16:20:36</StartTime>
+    <Duration>3</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>09d227381df745d68e5a92414a689d98</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest9</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.03</ToolVersion>
+    <Description />
+    <StartTime>2023-03-06 16:20:34</StartTime>
+    <Duration>5</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>13adf1be42d0492fa49d2a966a907f95</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (India)</Locale>
+      <User>Administrator</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>WINDOWS-UNR7VLH</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res16</ResultName>
+    <RunStartTime>2023-03-06 16:20:34</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.03</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>

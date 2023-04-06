@@ -1,0 +1,24 @@
+﻿systemutil.Run"C:\Program Files (x86)\HPE\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe"
+Window("HPE MyFlight Sample Applicatio").Click 331,224 @@ hightlight id_;_1377210_;_script infofile_;_ZIP::ssf1.xml_;_
+Window("HPE MyFlight Sample Applicatio").Type "john" @@ hightlight id_;_1377210_;_script infofile_;_ZIP::ssf2.xml_;_
+Window("HPE MyFlight Sample Applicatio").Click 268,288 @@ hightlight id_;_1377210_;_script infofile_;_ZIP::ssf3.xml_;_
+Window("HPE MyFlight Sample Applicatio").Type "hp" @@ hightlight id_;_1377210_;_script infofile_;_ZIP::ssf4.xml_;_
+Window("HPE MyFlight Sample Applicatio").Click 170,341 @@ hightlight id_;_1377210_;_script infofile_;_ZIP::ssf5.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Click 168,334 @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf6.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Click 168,334 @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf7.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Click 953,458 @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf8.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Click 953,458 @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf9.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Click 838,508 @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf10.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Click 175,327 @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf11.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type "ram" @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf12.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf13.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf14.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf15.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf16.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf17.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf18.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf19.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf20.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type  micBack  @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf21.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Type "john" @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf22.xml_;_
+Window("HPE MyFlight Sample Applicatio_2").Click 119,496 @@ hightlight id_;_1966762_;_script infofile_;_ZIP::ssf23.xml_;_

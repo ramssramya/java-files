@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-03-02 11:41:54</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>e98fb3ff5cb44cd2b722529530aa8825</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-03-02 11:41:54</StartTime>
+    <Duration>9</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>f6553677728e43feaaff73ab1e3d8cb8</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest1</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.03</ToolVersion>
+    <Description />
+    <StartTime>2023-03-02 11:41:52</StartTime>
+    <Duration>11</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>d53022ad88ec434d83e5c456c8ace53d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (India)</Locale>
+      <User>Administrator</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>WINDOWS-UNR7VLH</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res1</ResultName>
+    <RunStartTime>2023-03-02 11:41:52</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.03</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Object required: 'empdict'</Name>
+    <ErrorText>Object required: 'empdict'</ErrorText>
+    <Description>&lt;BR/&gt;Line (30): &amp;quot;empdetails=empdetails &amp;amp; key &amp;amp; &amp;quot; : &amp;quot; &amp;amp; empdict.item(key) &amp;amp; vbcrLF&amp;quot;.</Description>
+    <StartTime>2023-03-09 14:50:40</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[empdetails=empdetails & key & " : " & empdict.item(key) & vbcrLF]]></Scripts>
+          <LineNo><![CDATA[30]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>3e6411baadd14ee0a6c85c687bb7236b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-03-09 14:50:48</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>27554d84077441d083411d7255354d45</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-03-09 14:49:45</StartTime>
+    <Duration>63</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>fc624f4e74a04ad79c5868f45136c80f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-03-09 14:49:44</StartTime>
+    <Duration>64</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>bfdd54b03751462587b6a0eebe316d03</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITest9</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.03</ToolVersion>
+    <Description />
+    <StartTime>2023-03-09 14:49:42</StartTime>
+    <Duration>66</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>878a74d5b8d4489dac037ab13218d47c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (India)</Locale>
+      <User>Administrator</User>
+      <CpuInfo>Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>16383</TotalMemory>
+      <HostName>WINDOWS-UNR7VLH</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res35</ResultName>
+    <RunStartTime>2023-03-09 14:49:42</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.03</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>

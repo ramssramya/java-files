@@ -1,0 +1,4 @@
+﻿<Properties>
+  <WatchEntry0 value="sum=a+b" />
+  <WatchEntry1 value="msgbox &quot;kk&quot;" />
+</Properties>
